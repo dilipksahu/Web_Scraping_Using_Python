@@ -10,6 +10,7 @@ logs
 /mobileappenv
 /venv
 .vs
+/Notes
 
 # The file containing environment variables 
 .env
